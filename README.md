@@ -57,5 +57,4 @@ The system uses an Excel file to store topics and their revision schedules, and 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
 
 ## License
-MIT Licence
 This project is licensed under the MIT License.
